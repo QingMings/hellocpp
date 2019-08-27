@@ -231,6 +231,7 @@ int main (){
     cout<<"4. toggle 一位 用 ^= 和掩码"<<endl;
 
     */
+    /*
     cout<<"-----------------------------------------------"<<endl;
     cout<<"bitset 支持全部的位操作"<<endl;
     cout<<"test()  返回该位上是 0还是1"<<endl;
@@ -249,6 +250,9 @@ int main (){
     bitsetFlags.flip(0);
     std::cout << "bitsetFlags flip bit 0" << std::endl;
     std::cout << "bit 0 is is "<< (bitsetFlags.test(0)? "on \n": "off\n");
+
+    */
+
 
 
     return 0;
